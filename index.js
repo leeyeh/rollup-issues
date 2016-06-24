@@ -1,2 +1,1 @@
-console.log(Symbol);
-console.log(Symbol());
+console.log(Promise);
